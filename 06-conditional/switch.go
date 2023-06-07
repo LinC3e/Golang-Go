@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func a() {
 	number := 3
 
 	if number > 0 {
